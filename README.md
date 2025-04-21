@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Sreenath reddy</h1>
-<h3 align="center">A passionate DevOps Engineer from United kingdom</h3>
+<h3 align="center">A passionate cloud DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAxgLyIn8CmPdAbbZqA68cYyvMWy060YiKQw&usqp=CAU")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sreenatgh4757&label=Profile%20views&color=0e75b6&style=flat" alt="sreenatgh4757" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sreenath4757&label=Profile%20views&color=0e75b6&style=flat" alt="sreenath4757" /> </p>
 
-- 📫 How to reach me **bspmreddy@gmail.com**
+- 📫 How to reach me **sreenath4757@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
