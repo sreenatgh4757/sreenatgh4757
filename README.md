@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreenatgh4757&label=Profile%20views&color=0e75b6&style=flat" alt="sreenatgh4757" /> </p>
 
-- 🌱 I’m currently learning **Python fullstack**
+- 🌱 I’m currently learning **Machine learning**
 
-- 💬 Ask me about **Automation**
+- 💬 Ask me about **Automation and cloud**
 
 - 📫 How to reach me **sreenath4757@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-PVGovdOceaElAjL-f4A6Dc4o4aIZMcQ/view?usp=sharing](https://drive.google.com/file/d/1-PVGovdOceaElAjL-f4A6Dc4o4aIZMcQ/view?usp=sharing)
 
 - ⚡ Fun fact **curiosity to know all the Tech stack**
 
