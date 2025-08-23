@@ -64,6 +64,31 @@
 </p>
 
 ---
+---
+
+### 📌 Featured Projects
+
+#### 🚀 [EKS Terraform Setup](https://github.com/your-username/eks-terraform)
+- Provisioned and managed **EKS Cluster on AWS** using Terraform.  
+- Implemented CI/CD pipeline for automated deployments.  
+- Configured monitoring with Prometheus & Grafana.  
+
+#### 🤖 [AI-Powered DevOps Assistant](https://github.com/your-username/ai-devops-assistant)
+- Built a Python-based AI assistant to automate infra tasks.  
+- Integrated with OpenAI API to provide troubleshooting tips.  
+- Example use cases: Kubernetes pod restarts, log analysis.  
+
+#### 🌐 [ARM Technologies Website](https://github.com/your-username/arm-website)
+- Company website built using **Bolt + Supabase + Make.com**.  
+- Automated form submissions → Email & WhatsApp notifications.  
+- Deployed with CI/CD workflows integrated to GitHub Actions.  
+
+#### 🧪 [Cypress Automation Tests](https://github.com/your-username/cypress-automation)
+- End-to-end automation tests for a web application.  
+- Covers login, search, and form submission workflows.  
+- Integrated with Jenkins pipeline for scheduled test runs.  
+
+---
 
 ### 📊 GitHub Stats
 <p align="center">
