@@ -10,10 +10,9 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently exploring **Machine Learning & AI in DevOps**  
+- 🌱 Currently exploring **Mlops & AIops**  
 - 💬 Ask me about **Automation | Cloud | CI/CD | Infrastructure as Code**  
-- 📫 Reach me at: **sreenath4757@gmail.com**  
-- 📄 [View My Resume](https://drive.google.com/file/d/1-PVGovdOceaElAjL-f4A6Dc4o4aIZMcQ/view?usp=sharing)  
+- 📫 Reach me at: **sreenathreddybokkalapally@gmail.com**    
 - ⚡ Fun fact: *Curiosity drives me to learn every tech stack I touch*  
 
 ---
@@ -89,11 +88,3 @@
 - Integrated with Jenkins pipeline for scheduled test runs.  
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreenatgh4757&show_icons=true&theme=tokyonight" alt="github stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreenatgh4757&theme=tokyonight" alt="streak stats" />
-</p>
