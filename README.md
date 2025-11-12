@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sreenath Reddy
 
-### AWS DevOps Engineer | Cloud Infrastructure Specialist | 1.5 Years Experience
+### AWS DevOps Engineer | Cloud Infrastructure Specialist 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AWS+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD;Platform+Engineering+%7C+GitOps+%7C+DevSecOps;Building+Modern+Cloud+Infrastructure;Automating+Everything!" alt="Typing SVG" />
 
