@@ -26,18 +26,6 @@
 
 ---
 
-## 🎯 Personal Projects
-
-*Side projects built to explore new technologies and strengthen DevOps skills*
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🤖 **[AI DevOps Assistant](https://github.com/sreenatgh4757/ai-devops-assistant-mcp)** | Experimenting with Model Context Protocol (MCP) to build an AI-powered infrastructure assistant for natural language queries | Python • **MCP** • Claude API • Kubernetes • AWS |
-| 💰 **[AWS Cost Monitoring](https://github.com/sreenatgh4757/aws-cost-monitoring)** | Python scripts and dashboards for tracking and analyzing AWS cloud costs with automated alerts and optimization recommendations | Python • AWS Cost Explorer • Grafana • Lambda |
-| 🚀 **[GitOps with ArgoCD](https://github.com/sreenatgh4757/gitops-argocd-demo)** | Hands-on GitOps implementation using ArgoCD for automated Kubernetes deployments with multi-environment workflows | ArgoCD • Kustomize • Helm • Kubernetes |
-
----
-
 ## 🛠️ Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -98,23 +86,3 @@ learning_focus:
     - AI-powered DevOps assistant with Claude API
     - Cloud cost optimization automation
     - Multi-environment GitOps deployments
-  
-  next_certifications:
-    - Certified Kubernetes Administrator (CKA)
-    - HashiCorp Terraform Associate
-```
-
----
-
-<div align="center">
-
-**💼 Open to DevOps Engineer opportunities in UK & Remote**
-
-*"Building AI-powered DevOps tools • Exploring MCP • Automating everything"*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreenathreddy5/)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreenathreddybokkalapally@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%"/>
-
-</div>
